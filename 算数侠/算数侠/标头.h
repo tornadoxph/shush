@@ -11,3 +11,4 @@ void MusicMenu();
 void synthetic_music(int*);
 void background_music(int*);
 void close_music();
+void turnon_music();

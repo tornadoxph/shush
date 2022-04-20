@@ -16,6 +16,4 @@ void MusicMenu() {
 	outtextxy(360 + wide1, 500 + height1, BKmode[0]);//居中对齐
 	solidroundrect(780, 500, 1080, 600, 10, 10);
 	outtextxy(780 + wide1, 500 + height1, BKmode[1]);//居中对齐
-
-	getchar();
 }
