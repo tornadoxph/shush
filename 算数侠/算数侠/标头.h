@@ -12,3 +12,5 @@ void synthetic_music(int*);
 void background_music(int*);
 void close_music();
 void turnon_music();
+void startmenu();//开始界面
+void button(int x, int y, int w, int h, const char* text);
